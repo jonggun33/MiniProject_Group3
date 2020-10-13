@@ -1,7 +1,7 @@
 # MiniProject_Group3
 Mini Project 실습을 위한 Public Repository 입니다.
 
-**Python version 3.8**
+** Python version 3.8 **
 
 **https://pypi.org/project/pytesseract/ 참조**
 
@@ -10,10 +10,10 @@ Mini Project 실습을 위한 Public Repository 입니다.
 1. 설치 후 Path에 설치 경로 추가
 
 
-#venv 실행:
+# venv 실행:
 call venv/Scripts/activate.bat 
 
-##Cargo Container Images Search Results:
+## Cargo Container Images Search Results:
 https://www.google.com/search?q=image+gallery+cargo+container&tbm=isch&ved=2ahUKEwiW4d2tiq_sAhUK4pQKHQRmAysQ2-cCegQIABAA&oq=image+gallery+cargo+container&gs_lcp=CgNpbWcQA1AAWABg-sQiaABwAHgAgAEAiAEAkgEAmAEAqgELZ3dzLXdpei1pbWc&sclient=img&ei=ek-EX5Y8isTTBITMjdgC&bih=864&biw=1574 
 
 --psm xx (Page segmentation modes) options:
