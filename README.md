@@ -3,6 +3,7 @@ Mini Project 실습을 위한 Public Repository 입니다.
 
 ## 환경 세팅
 * Python version 3.8
+* Tesseract https://github.com/tesseract-ocr/tesseract
 * https://pypi.org/project/pytesseract/ 참조
 * Tesseract 윈도우 용 실행파일 5.0 
   * https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20200328.exe  
