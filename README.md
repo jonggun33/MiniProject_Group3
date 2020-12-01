@@ -12,3 +12,7 @@ Mini Project 실습을 위한 Public Repository 입니다.
 1. git clone
 1. call venv/Scripts/activate.bat
 1. pip install -r requirements.txt
+
+## 참조 사이트
+https://nanonets.com/blog/deep-learning-ocr/#crnn  
+https://stackoverflow.com/questions/61327857/how-to-extract-individual-letters-from-image-with-pytesseract  
